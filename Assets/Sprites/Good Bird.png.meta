@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: 0b6fce87bf8514347ad3c2d2b8f4da1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3107569718549470195
+    second: Good Bird_0
+  - first:
+      213: 6675930154699340400
+    second: Good Bird_1
+  - first:
+      213: -737461180090186381
+    second: Good Bird_2
+  - first:
+      213: 4813045666875845598
+    second: Good Bird_3
+  - first:
+      213: 7130720303589201322
+    second: Good Bird_4
+  - first:
+      213: 5764065193888624444
+    second: Good Bird_5
+  - first:
+      213: 4490735710499970284
+    second: Good Bird_6
+  - first:
+      213: 3242000375683401348
+    second: Good Bird_7
+  - first:
+      213: 4029363157663207693
+    second: Good Bird_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Good Bird_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 652
+        width: 293
+        height: 249
+      alignment: 9
+      pivot: {x: 0.90988606, y: 0.3634146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04291b3ec1bfd4d0800000000000000
+      internalID: -3107569718549470195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good Bird_1
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 652
+        width: 281
+        height: 249
+      alignment: 9
+      pivot: {x: 0.912261, y: 0.35105854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a3c28ea1ba5ac50800000000000000
+      internalID: 6675930154699340400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good Bird_2
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 671
+        width: 296
+        height: 212
+      alignment: 9
+      pivot: {x: 0.8662357, y: 0.3950708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3758515c6f204c5f0800000000000000
+      internalID: -737461180090186381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good Bird_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 386
+        width: 321
+        height: 104
+      alignment: 9
+      pivot: {x: 0.80791456, y: 0.8415372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb2edd888f5bc240800000000000000
+      internalID: 4813045666875845598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good Bird_4
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 357
+        width: 319
+        height: 145
+      alignment: 9
+      pivot: {x: 0.8031817, y: 0.9007131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa59910065865f260800000000000000
+      internalID: 7130720303589201322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good Bird_5
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 339
+        width: 319
+        height: 178
+      alignment: 9
+      pivot: {x: 0.8098451, y: 0.916542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3face721c21eff40800000000000000
+      internalID: 5764065193888624444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good Bird_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 288
+        height: 169
+      alignment: 9
+      pivot: {x: 0.8837896, y: 0.896192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec1384f55c425e30800000000000000
+      internalID: 4490735710499970284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good Bird_7
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 22
+        width: 280
+        height: 144
+      alignment: 9
+      pivot: {x: 0.9251208, y: 0.61808884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486ca423a26edfc20800000000000000
+      internalID: 3242000375683401348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good Bird_8
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 7
+        width: 283
+        height: 174
+      alignment: 9
+      pivot: {x: 0.9247003, y: 0.52840185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01df83817c2be730800000000000000
+      internalID: 4029363157663207693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
