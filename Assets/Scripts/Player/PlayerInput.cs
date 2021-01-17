@@ -2,17 +2,25 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+[RequireComponent(typeof(PlayerMover))]
 public class PlayerInput : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    private PlayerMover _mover;
+
+    private void Start()
     {
-        
+        _mover = GetComponent<PlayerMover>();
     }
 
-    // Update is called once per frame
-    void Update()
+    private void Update()
     {
-        
+        if (Input.GetKeyDown(KeyCode.W))
+        {
+            _mover.TryMoveUp();
+        }
+        if (Input.GetKeyDown(KeyCode.S))
+        {
+            _mover.TryMoveDown();
+        }
     }
 }
