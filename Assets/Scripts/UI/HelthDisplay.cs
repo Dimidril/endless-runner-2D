@@ -1,10 +1,17 @@
 using UnityEngine;
 using TMPro;
 
+[RequireComponent(typeof(TMP_Text))]
 public class HelthDisplay : MonoBehaviour
 {
     [SerializeField] private Player _player;
-    [SerializeField] private TMP_Text _helthDisplay;
+
+    private TMP_Text _helthDisplay;
+
+    private void Awake()
+    {
+        _helthDisplay = GetComponent<TMP_Text>();
+    }
 
     private void OnEnable()
     {

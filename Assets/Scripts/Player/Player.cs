@@ -8,6 +8,7 @@ public class Player : MonoBehaviour
     [SerializeField] private int _helth = 3;
 
     public event UnityAction<int> HelthChanged;
+    public event UnityAction Died;
 
     private void Start()
     {
@@ -24,6 +25,6 @@ public class Player : MonoBehaviour
 
     private void Die()
     {
-        Destroy(gameObject);
+        Died?.Invoke();
     }
 }
